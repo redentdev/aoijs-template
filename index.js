@@ -1,7 +1,7 @@
 const aoijs = require("aoi.js");
  
 const bot = new aoijs.Bot({
-  token: process.env.token,
+  token: "burayA token",
   prefix: "!",
   intents: "all",
   mobilePlatform: false
